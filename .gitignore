@@ -1,0 +1,21 @@
+# Maven output and compiled code
+target/
+*.class
+
+# Local application data (must not be committed)
+data/
+
+# IDE/editor metadata
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Local configuration and OS files
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
